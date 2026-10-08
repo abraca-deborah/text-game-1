@@ -1,0 +1,7 @@
+First Iteration: basic inventory game where you use items to navigate a base and interact with some OCs
+
+Second Iteration: battle options?
+
+Third Iteration: more in-depth character development and world-building
+
+Fourth Iteration: ability to access multiple endings + saves
